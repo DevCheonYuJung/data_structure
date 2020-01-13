@@ -54,3 +54,4 @@ def LinkedList():
     print_list()
 
 LinkedList() #연결 리스트 실행
+
